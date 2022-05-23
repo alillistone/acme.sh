@@ -5,7 +5,7 @@
 #
 # ULTRA_PWD="some_password_goes_here"
 
-ULTRA_API="https://restapi.ultradns.com/v2/"
+ULTRA_API="https://restapi.ultradns.com/v3/"
 
 #Usage: add _acme-challenge.www.domain.com "some_long_string_of_characters_go_here_from_lets_encrypt"
 dns_ultra_add() {
